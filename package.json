@@ -29,6 +29,7 @@
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
+    "@tailwindcss/forms": "^0.5.7",
     "vite": "^5.2.0"
   },
   "homepage": "https://duedev.github.io/career-advisor-spa"
