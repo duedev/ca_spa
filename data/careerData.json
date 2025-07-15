@@ -1,0 +1,351 @@
+{
+  "user_profile": {
+    "current_role": "Construction Project Manager",
+    "experience_years": 3,
+    "current_salary": 80000,
+    "location": "Placentia, CA",
+    "education": "No college credits",
+    "goals": {
+      "salary_target": "100000+",
+      "work_preference": "Remote or hybrid",
+      "career_pivot": "Open to tech (IT PM) or staying in construction",
+      "concerns": "Employer recognition of WGU BSITM for internal pay bump"
+    }
+  },
+  "market_context": {
+    "california_specific": {
+      "construction_pm": {
+        "median_salary": {"range": [101000, 131000], "sources": ["ZipRecruiter 2025", "Salary.com LA 2025", "Indeed 2025"]},
+        "remote_availability": "40-60% (hybrid common, 170+ Indeed listings)",
+        "job_growth": "5-10% (infrastructure boom)",
+        "with_experience_certs": {"range": [110000, 150000], "boost": "15-30%"}
+      },
+      "tech_it_pm": {
+        "median_salary": {"range": [113000, 165000], "sources": ["Indeed 2025", "Salary.com Tech PM Mgr 2025", "ZipRecruiter 2025"]},
+        "remote_availability": "80%+ (400+ LinkedIn/Indeed listings, agile/software focus)",
+        "job_growth": "15%+ (AI/cloud demand)",
+        "with_experience_certs": {"range": [120000, 180000], "boost": "25-50%"}
+      }
+    },
+    "x_insights": [
+      {"user_id": "anon_1", "transition": "Construction to tech PM, $75k to $126k, remote via PMP/CSM"},
+      {"user_id": "anon_2", "note": "Tech PM bureaucratic vs. construction hands-on; $115k hybrid"},
+      {"user_id": "anon_3", "salary_jump": "$60k increase post-Fortinet/Cisco skills"}
+    ]
+  },
+  "alternative_credit_platforms": {
+    "sophia_learning": {
+      "ease": "Highest (no proctoring, open-book, unlimited courses, 2 active)",
+      "cost": {"yearly": 599, "monthly": 99, "per_credit": [6, 11]},
+      "features": "Modern UI, gamified, ~10 hours/course",
+      "user_feedback": ["Easiest for fast learners", "No proctor stress"],
+      "transfer_potential": {"general": "50-100 courses (~150-300 credits, mostly 3 credits)"}
+    },
+    "straighterline": {
+      "ease": "Moderate (proctored finals, strong support)",
+      "cost": {"monthly": 99, "per_course": 79, "per_credit": [33, 37]},
+      "features": "Free trial (4 courses), tutors, flexible pacing",
+      "user_feedback": ["Good for calculus", "Retake policy generous"],
+      "transfer_potential": {"general": "~50 courses (~150 credits)"}
+    },
+    "study_com": {
+      "ease": "Lowest (proctored finals, essays, 2-5 courses/month limit)",
+      "cost": {"monthly_starter": 95, "per_credit": 39},
+      "features": "Micro-learning, interactive, video-based",
+      "user_feedback": ["Resourceful but slower", "Good for visual learners"],
+      "transfer_potential": {"general": "~149+ courses (~120-211 credits)"}
+    }
+  },
+  "pathways": [
+    {
+      "id": "construction_track",
+      "focus": "Stay in construction, maximize current exp, align with CACM/CCM",
+      "degree": {
+        "institution": "LSU Online",
+        "program": "BS Construction Management",
+        "accreditation": "SACSCOC (regional)",
+        "recognition": "High (flagship, top 100 public, strong in engineering/construction)",
+        "tuition": {"per_credit": 399, "full_program": 47880},
+        "transfers": {
+          "max_credits": 90,
+          "sophia": {"credits": [0, 60], "note": "Case-by-case ACE for gen ed (e.g., math, stats)"},
+          "straighterline": {"credits": [0, 30], "note": "Case-by-case, no direct partnership"},
+          "study_com": {"credits": [0, 30], "note": "ACE evaluation, limited to gen ed"}
+        },
+        "pla": {"credits": [15, 30], "method": "Portfolio (resume, RIC tasks like scheduling)", "fee": 100},
+        "curriculum": ["Scheduling", "Estimating", "Safety", "Contracts", "Cost control"],
+        "estimated_cost_with_transfers_pla": [4000 4000, 6000],
+        "completion_time": "1-2 years (semester-based, 30-45 credits remaining)"
+      },
+      "certifications": [
+        {
+          "name": "CACM (CMAA)",
+          "eligibility": "Limited exp + education/field demo",
+ "alternative_eligibility": "4-8 years field exp without degree",
+          "alternative": 275,
+          "cost": 275,
+          "exam": "Foundational construction PM skills",
+          "renewal": "Every 3 years",
+          "prep_resources": ["Coursera Columbia Construction PM (free)", "Alison Diploma (free)"],
+          "benefit": "Stepping stone to CCM, entry-level credibility"
+        },
+        {
+          "name": "PMI-CP (PMI)",
+          "eligibility": "3 years construction exp (within 10 years)",
+          "alternative_eligibility": "PM cert + exp proof",
+          "cost": 500,
+          "exam": "Construction risks, contracts",
+          "renewal": "Every 3 years (30 PDUs)",
+          "prep_resources": ["PMI KICKOFF (free)", "edX fundamentals (free)"],
+          "benefit": "+10% salary, specialized PM"
+        },
+        {
+          "name": "CCM (CMAA)",
+          "eligibility": "4 years RIC exp + degree",
+          "alternative_eligibility": "8 years RIC without degree",
+          "cost": 425,
+          "exam": "10 domains (cost, safety, sustainability)",
+          "renewal": "Every 3 years (25 points PD)",
+          "prep_resources": ["Alison CM cert (free)", "Coursera engineering PM (free)"],
+          "benefit": "Top construction cert, +10% pay"
+        },
+        {
+          "name": "PMP (PMI)",
+          "eligibility": "3 years exp + degree + 35 hours PM education",
+          "alternative_eligibility": "5 years exp without degree + 35 hours",
+          "cost": 555,
+          "exam": "PMBOK-based, broad PM",
+          "renewal": "Every 3 years (60 PDUs)",
+          "prep_resources": ["Harvard CS50 (free)", "Coursera IBM PM (free)"],
+          "benefit": "+20-33% pay, remote boost"
+        }
+      ],
+      "timeline": {
+        "total_duration": "12-18 months",
+        "breakdown": [
+          {"months_1_3": "CACM prep/exam"},
+          {"months_4_12": "Degree (fast-track) + PMI-CP"},
+          {"months_13_18": "CCM (post-year 4 exp) + PMP"}
+        ]
+      },
+      "total_cost": [5755, 7755],
+      "outcomes": {
+        "salary_ca": {"range": [110000, 150000], "median": 131000},
+        "remote_availability": "40-60% (hybrid, 170+ Indeed listings)",
+        "job_roles": ["Construction PM", "Site Manager"],
+        "x_insights": ["Stable, plateaus at $150k", "PMP adds remote hybrid"]
+      }
+    },
+    {
+      "id": "tech_track",
+      "focus": "Pivot to tech (IT PM), maximize salary/remote",
+      "degree": {
+        "institution": "WGU",
+        "program": "BS IT Management",
+        "accreditation": "NWCCU (regional)",
+        "recognition": "Moderate (98% employer satisfaction, strong in tech)",
+        "tuition": {"per_term": 3755, "full_program": [3755, 15020]},
+        "transfers": {
+          "max_credits": 90,
+          "sophia": {"credits": [150, 300], "courses": 100, "note": "Gen ed, IT basics (e.g., Project Management)"},
+          "straighterline": {"credits": 150, "courses": 50, "note": "Business/math focus"},
+          "study_com": {"credits": [120, 211], "note": "Broad IT electives"}
+        },
+        "pla": {"credits": [15, 30], "method": "Assessments/portfolio", "fee": 0},
+        "curriculum": ["IT PM", "Agile", "Cloud", "Cybersecurity"],
+        "estimated_cost_with_transfers_pla": [3755, 7510],
+        "completion_time": "6-12 months (competency-based)"
+      },
+      "certifications": [
+        {
+          "name": "CAPM (PMI)",
+          "eligibility": "23 hours PM education",
+          "alternative_eligibility": "High school + 1500 hours exp",
+          "cost": 300,
+          "exam": "Entry-level PM",
+          "renewal": "Every 3 years (PDUs)",
+          "prep_resources": ["Coursera Google PM Cert (free)", "Udemy basics (free)"],
+          "benefit": "Fulfills PMP prereq, junior roles"
+        },
+        {
+          "name": "CSM (Scrum Alliance)",
+          "eligibility": "2-day course",
+          "alternative_eligibility": "None",
+          "cost": 1000,
+          "exam": "Agile/Scrum principles",
+          "renewal": "Every 2 years",
+          "prep_resources": ["Coursera Agile (free)", "Udemy Scrum (free)"],
+          "benefit": "Entry to Scrum Master ($90k+)"
+        },
+        {
+          "name": "PMI-ACP (PMI)",
+          "eligibility": "1 year agile exp + 21 hours training",
+          "alternative_eligibility": "2 years general PM exp + training",
+          "cost": 500,
+          "exam": "Agile methodologies",
+          "renewal": "Every 3 years (30 PDUs)",
+          "prep_resources": ["PMI KICKOFF (free)", "edX agile (free)"],
+          "benefit": "Hybrid tech PM, complements PMP"
+        },
+        {
+          "name": "CompTIA Project+",
+          "eligibility": "No prereqs",
+          "alternative_eligibility": "None",
+          "cost": 350,
+          "exam": "General PM with tech apps",
+          "renewal": "Every 3 years",
+          "prep_resources": ["Coursera IT basics (free)", "Udemy Project+ (free)"],
+          "benefit": "Tech/construction crossover"
+        },
+        {
+          "name": "PMP (PMI)",
+          "eligibility": "3 years exp + degree + 35 hours",
+          "alternative_eligibility": "5 years exp + 35 hours",
+          "cost": 555,
+          "exam": "PMBOK-based",
+          "renewal": "Every 3 years (60 PDUs)",
+          "prep_resources": ["Harvard CS50 (free)", "Coursera IBM PM (free)"],
+          "benefit": "+33% pay, remote ($120k+)"
+        }
+      ],
+      "timeline": {
+        "total_duration": "6-12 months",
+        "breakdown": [
+          {"months_1_3": "CAPM/CSM"},
+          {"months_4_9": "Degree + PMI-ACP/Project+"},
+          {"months_10_12": "PMP"}
+        ]
+      },
+      "total_cost": [5005, 10005],
+      "outcomes": {
+        "salary_ca": {"range": [120000, 180000], "median": 165000},
+        "remote_availability": "80%+ (400+ LinkedIn/Indeed)",
+        "job_roles": ["Tech PM", "Scrum Master", "Business Analyst"],
+        "x_insights": ["$126k remote post-pivot", "Relationships key for tech"]
+      }
+    },
+    {
+      "id": "general_pm_track",
+      "focus": "Hybrid flexibility for tech/construction",
+      "degree": {
+        "institution": "SNHU",
+        "program": "BS Operations Management (PM Concentration)",
+        "accreditation": "NECHE (regional)",
+        "recognition": "High (top online, 140k+ enrollment)",
+        "tuition": {"per_credit": 320, "full_program": 38400},
+        "transfers": {
+          "max_credits": 90,
+          "sophia": {"credits": 177, "courses": 59, "note": "Gen ed, PM (e.g., BUS-206)"},
+          "straighterline": {"credits": 150, "courses": 50, "note": "Business/math"},
+          "study_com": {"credits": [120, 149], "note": "Operations/PM electives"}
+        },
+        "pla": {"credits": [15, 45], "method": "Portfolio (600+ experiences)", "fee": 250},
+        "curriculum": ["Scheduling", "Procurement", "Adaptive PM", "CAPM prep"],
+        "estimated_cost_with_transfers_pla": [3800, 5500],
+        "completion_time": "12 months"
+      },
+      "certifications": [
+        {
+          "name": "CAPM (PMI)",
+          "eligibility": "23 hours PM education",
+          "alternative_eligibility": "High school + 1500 hours exp",
+          "cost": 300,
+          "exam": "Entry-level PM",
+          "renewal": "Every 3 years (PDUs)",
+          "prep_resources": ["Coursera Google PM Cert (free)", "Udemy basics (free)"],
+          "benefit": "Fulfills PMP prereq"
+        },
+        {
+          "name": "CompTIA Project+",
+          "eligibility": "No prereqs",
+          "alternative_eligibility": "None",
+          "cost": 350,
+          "exam": "General PM with tech apps",
+          "renewal": "Every 3 years",
+          "prep_resources": ["Coursera IT basics (free)", "Udemy Project+ (free)"],
+          "benefit": "Crossover tech/construction"
+        },
+        {
+          "name": "PMP (PMI)",
+          "eligibility": "3 years exp + degree + 35 hours",
+          "alternative_eligibility": "5 years exp + 35 hours",
+          "cost": 555,
+          "exam": "PMBOK-based",
+          "renewal": "Every 3 years (60 PDUs)",
+          "prep_resources": ["Harvard CS50 (free)", "Coursera IBM PM (free)"],
+          "benefit": "+20-33% pay, hybrid"
+        },
+        {
+          "name": "Optional Add-Ons",
+          "options": [
+            {"name": "CACM (CMAA)", "eligibility": "Limited exp", "cost": 275, "benefit": "Construction"},
+            {"name": "CCM (CMAA)", "eligibility": "4 years RIC + degree", "cost": 425, "benefit": "Top construction"},
+            {"name": "PMI-ACP (PMI)", "eligibility": "1 year agile", "cost": 500, "benefit": "Tech agile"},
+            {"name": "CSM (Scrum)", "eligibility": "2-day course", "cost": 1000, "benefit": "Scrum Master"}
+          ]
+        }
+      ],
+      "timeline": {
+        "total_duration": "12 months",
+        "breakdown": [
+          {"months_1_3": "CAPM"},
+          {"months_4_9": "Degree + Project+"},
+          {"months_10_12": "PMP + optional (CACM/PMI-ACP)"}
+        ]
+      },
+      "total_cost": [5005, 7205],
+      "outcomes": {
+        "salary_ca": {"range": [108000, 130000], "median": 113000},
+        "remote_availability": "60-70% (hybrid, broad PM roles)",
+        "job_roles": ["PM (General)", "Tech PM", "Construction PM"],
+        "x_insights": ["PMP doubled to $115k hybrid", "Flexible but less specialized"]
+      }
+    }
+  ],
+  "employer_recognition_concerns": {
+    "wgu_bsitm": {
+      "general_recognition": "Moderate (98% employer satisfaction, NWCCU accredited)",
+      "construction_field": {
+        "likelihood_of_bump": "Low (50/50 unless IT-relevant duties, e.g., BIM software)",
+        "evidence": ["Reddit: 5-10% bumps rare without role shift", "X: $4k increase via advocacy"],
+        "salary_impact": "Minimal internally ($2k-$8k); $120k+ via pivot"
+      },
+      "strategies": [
+        "Discuss HR policies for degree recognition/reimbursement",
+        "Negotiate bump post-completion",
+        "Pivot to tech PM roles for $100k+"
+      ]
+    }
+  },
+  "recommendations": {
+    "primary_path": "Tech Track (WGU BSITM)",
+    "rationale": "Highest CA salary ($120k-$180k), 80%+ remote, aligns with pivot goals",
+    "steps": [
+      {"action": "Start Sophia ($599/year) for 90 credits"},
+      {"action": "Apply WGU PLA (free eval, 15-30 credits)"},
+      {"action": "Pursue CAPM/CSM ($1,300) for entry credibility"},
+      {"action": "Complete degree (6-12 months), add PMI-ACP/PMP ($1,055)"},
+      {"action": "Build portfolio (PM skills for tech apps)"},
+      {"action": "Apply to CA tech PM roles (Indeed/LinkedIn)"}
+    ],
+    "alternative": "Construction Track (LSU BSCM) if prefer stability; General PM (SNHU) for flexibility",
+    "next_questions": [
+      "Employer degree policy details?",
+      "Preferred tech subfield (e.g., agile, cybersecurity)?",
+      "Willingness to switch jobs for bump?"
+    ]
+  },
+  "limitations": {
+    "data_gaps": [
+      "PLA yields vary by documentation",
+      "CA-specific program perks limited",
+      "X anecdotes success-biased",
+      "2025 salary projections may shift"
+    ],
+    "assumptions": [
+      "Fast pacing (9-12 credits/month)",
+      "U.S./CA focus",
+      "Construction employer, no IT duties"
+    ]
+  }
+}
