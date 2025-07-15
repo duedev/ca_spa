@@ -74,7 +74,7 @@
         },
         "pla": {"credits": [15, 30], "method": "Portfolio (resume, RIC tasks like scheduling)", "fee": 100},
         "curriculum": ["Scheduling", "Estimating", "Safety", "Contracts", "Cost control"],
-        "estimated_cost_with_transfers_pla": [4000 4000, 6000],
+        "estimated_cost_with_transfers_pla": [4000, 6000],
         "completion_time": "1-2 years (semester-based, 30-45 credits remaining)"
       },
       "certifications": [
